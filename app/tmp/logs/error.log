@@ -1,0 +1,117 @@
+2015-04-15 11:05:00 Error: [MissingComponentException] Component class ToolbarComponent could not be found.
+Exception Attributes: array (
+  'class' => 'ToolbarComponent',
+  'plugin' => 'DebugKit',
+)
+Request URL: /newcake/
+Stack Trace:
+#0 C:\wamp\www\newcake\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#1 C:\wamp\www\newcake\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(PagesController))
+#2 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\wamp\www\newcake\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-04-15 11:14:58 Error: [MissingComponentException] Component class ToolbarComponent could not be found.
+Exception Attributes: array (
+  'class' => 'ToolbarComponent',
+  'plugin' => 'DebugKit',
+)
+Request URL: /newcake/
+Stack Trace:
+#0 C:\wamp\www\newcake\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#1 C:\wamp\www\newcake\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(PagesController))
+#2 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\wamp\www\newcake\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-04-15 11:15:00 Error: [MissingComponentException] Component class ToolbarComponent could not be found.
+Exception Attributes: array (
+  'class' => 'ToolbarComponent',
+  'plugin' => 'DebugKit',
+)
+Request URL: /newcake/
+Stack Trace:
+#0 C:\wamp\www\newcake\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#1 C:\wamp\www\newcake\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(PagesController))
+#2 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\wamp\www\newcake\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-04-15 11:15:00 Error: [MissingComponentException] Component class ToolbarComponent could not be found.
+Exception Attributes: array (
+  'class' => 'ToolbarComponent',
+  'plugin' => 'DebugKit',
+)
+Request URL: /newcake/
+Stack Trace:
+#0 C:\wamp\www\newcake\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#1 C:\wamp\www\newcake\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(PagesController))
+#2 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\wamp\www\newcake\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-04-15 11:15:00 Error: [MissingComponentException] Component class ToolbarComponent could not be found.
+Exception Attributes: array (
+  'class' => 'ToolbarComponent',
+  'plugin' => 'DebugKit',
+)
+Request URL: /newcake/
+Stack Trace:
+#0 C:\wamp\www\newcake\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#1 C:\wamp\www\newcake\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(PagesController))
+#2 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\wamp\www\newcake\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-04-15 11:15:00 Error: [MissingComponentException] Component class ToolbarComponent could not be found.
+Exception Attributes: array (
+  'class' => 'ToolbarComponent',
+  'plugin' => 'DebugKit',
+)
+Request URL: /newcake/
+Stack Trace:
+#0 C:\wamp\www\newcake\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#1 C:\wamp\www\newcake\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(PagesController))
+#2 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\wamp\www\newcake\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-04-15 11:15:00 Error: [MissingComponentException] Component class ToolbarComponent could not be found.
+Exception Attributes: array (
+  'class' => 'ToolbarComponent',
+  'plugin' => 'DebugKit',
+)
+Request URL: /newcake/
+Stack Trace:
+#0 C:\wamp\www\newcake\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#1 C:\wamp\www\newcake\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(PagesController))
+#2 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\wamp\www\newcake\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-04-23 18:10:34 Error: [MissingComponentException] Component class ToolbarComponent could not be found.
+Exception Attributes: array (
+  'class' => 'ToolbarComponent',
+  'plugin' => 'DebugKit',
+)
+Request URL: /newcake/
+Stack Trace:
+#0 C:\wamp\www\newcake\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#1 C:\wamp\www\newcake\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(PagesController))
+#2 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\wamp\www\newcake\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-04-23 18:13:50 Error: [MissingComponentException] Component class ToolbarComponent could not be found.
+Exception Attributes: array (
+  'class' => 'ToolbarComponent',
+  'plugin' => 'DebugKit',
+)
+Request URL: /newcake/
+Stack Trace:
+#0 C:\wamp\www\newcake\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#1 C:\wamp\www\newcake\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(PagesController))
+#2 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\wamp\www\newcake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\wamp\www\newcake\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
